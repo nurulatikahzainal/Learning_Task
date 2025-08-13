@@ -9,11 +9,8 @@ It is intended as a reference point that can be revisited whenever needed.
 - Store instructions, best practices, and examples.
 - Provide a quick reference for future projects.
 
-## 🛠 Usage
-1. Navigate to the relevant topic folder.
-2. Open `notes.md` for step-by-step instructions.
-3. Refer to `examples/` for sample code or configurations.
-4. Check `resources.md` for additional references.
+## 📚 Learning
+1. [Terraform Documentation](https://github.com/nurulatikahzainal/Learning_Task/tree/development/terraform#readme)
 
 ## ✍️ Contribution
 If you wish to contribute or add new learnings:
