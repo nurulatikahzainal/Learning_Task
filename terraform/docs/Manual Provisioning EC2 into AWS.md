@@ -25,7 +25,7 @@
 
 ## Create Terraform Project Structure
 1. mkdir Learn-Terraform-Get-Started-AWS
-2. 
+2. Create [terraform.tf](https://github.com/nurulatikahzainal/Learning_Task/tree/development/terraform/docs/terraformtf code.md)
 3. 
 
 
