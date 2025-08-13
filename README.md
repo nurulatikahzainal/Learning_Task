@@ -10,7 +10,7 @@ It is intended as a reference point that can be revisited whenever needed.
 - Provide a quick reference for future projects.
 
 ## 📚 Learning
-1. [Terraform Documentation](terraform/README)
+1. [Terraform Documentation](/Learning_Task/terraform/README)
 
 ## ✍️ Contribution
 If you wish to contribute or add new learnings:
