@@ -16,8 +16,8 @@
 2. Create IAM user account.
 3. Crate permission for the IAM user account
 4. Create Access Key (Access Key ID and Secret Access Key will be created and need to copy once provided as it will not be fetchable again)
-5. Configure AWS through command prompt by providing below informations:
-i.   AWS Access Key ID
+5. Configure AWS through command prompt by providing the following:
+     1.AWS Access Key ID
 ii.  AWS Secret Access Key
 iii.  Default region (e.g., ap-southeast-1)
 iv.   Output format (e.g., json)
