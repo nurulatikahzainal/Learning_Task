@@ -1,5 +1,6 @@
 ### Code for terraform.tf
 
+'''
 terraform {
   required_providers {
     aws = {
@@ -10,3 +11,4 @@ terraform {
 
   required_version = ">= 1.2"
 }
+'''
