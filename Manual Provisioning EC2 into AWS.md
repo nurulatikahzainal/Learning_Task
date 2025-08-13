@@ -21,4 +21,11 @@
    2. AWS Secret Access Key
    3. Default region (e.g., ap-southeast-1)
    4. Output format (e.g., json)
+6. Verify configuration using command prompt: aws sts get-caller-identity
+
+## Create Terraform Project Structure
+1. mkdir Learn-Terraform-Get-Started-AWS
+2. 
+3. 
+
 
