@@ -5,5 +5,5 @@ It contains step-by-step guides, configuration files, and examples for various T
 
 Currently, it includes:  
 
-1.[Manual Steps to Provision EC2 into AWS](terraform/docs/manual-provision.md) – A detailed guide on how to set up and deploy an AWS EC2 instance using Terraform.
+1.[Manual Steps to Provision EC2 into AWS](docs/manual-provision.md) – A detailed guide on how to set up and deploy an AWS EC2 instance using Terraform.
 
