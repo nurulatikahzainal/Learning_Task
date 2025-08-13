@@ -1,7 +1,7 @@
 # Steps to Manually Provision EC2 into AWS using Terraform
 
 ## Install Terraform
-    1.  Go to the [Terraform Downloads](https://developer.hashicorp.com/terraform/downloads) page.
+    1. Go to the [Terraform Downloads](https://developer.hashicorp.com/terraform/downloads) page.
     2. Download the package for your operating system.
     3. Extract and place the Terraform binary in a directory included in your system `PATH`(in the Environment Variable).
     4. Verify installation using CMD: terraform --version
