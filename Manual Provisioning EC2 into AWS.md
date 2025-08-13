@@ -5,3 +5,6 @@
 2. Download the package for your operating system.
 3. Extract and place the Terraform binary in a directory included in your system `PATH`(in the Environment Variable).
 4. Verify installation using command prompt: terraform --version
+
+## Install AWS CLI (with latest version)
+1. Go to the [AWS CLI Downloads](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) page.
